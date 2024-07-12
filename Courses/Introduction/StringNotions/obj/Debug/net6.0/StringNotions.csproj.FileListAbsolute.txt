@@ -1,0 +1,15 @@
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\bin\Debug\net6.0\StringNotions.exe
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\bin\Debug\net6.0\StringNotions.deps.json
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\bin\Debug\net6.0\StringNotions.runtimeconfig.json
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\bin\Debug\net6.0\StringNotions.dll
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\bin\Debug\net6.0\StringNotions.pdb
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\obj\Debug\net6.0\StringNotions.csproj.AssemblyReference.cache
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\obj\Debug\net6.0\StringNotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\obj\Debug\net6.0\StringNotions.AssemblyInfoInputs.cache
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\obj\Debug\net6.0\StringNotions.AssemblyInfo.cs
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\obj\Debug\net6.0\StringNotions.csproj.CoreCompileInputs.cache
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\obj\Debug\net6.0\StringNotions.dll
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\obj\Debug\net6.0\refint\StringNotions.dll
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\obj\Debug\net6.0\StringNotions.pdb
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\obj\Debug\net6.0\StringNotions.genruntimeconfig.cache
+C:\Users\yayad\OneDrive\Bureau\C#\StringNotions\obj\Debug\net6.0\ref\StringNotions.dll

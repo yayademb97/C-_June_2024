@@ -12,26 +12,30 @@
 //          int        age;
 //*          v          v
 //*         type  nameOfVariable       
-            int        age      =   27;   //* C# généralement , la nommenclature se fasse par du PascalCase
+            int        age      =   27;   //* In C#, naming conventions typically use PascalCase.
 //*          v          v            v
-//*         type nameOfVariable = value  (ici on parle de l'affectation de la variable)
+//*         type nameOfVariable = value  (Here we are talking about the declaration and assignment of the variable.)
 
 Console.WriteLine(age);   //? Output : 27
 
 
-//! Affectation d'une nouvelle valeur à la valeur
-//* Exemple: 
-//* Déclaration de ma variable:
+//! Assigning a new value to the variable
+//* Example: 
+//* Declaration of my variable:
 string FullName = "Yaya Dembele";
 
-//* Affichage de la valeur actuelle de la variable:
+//* Displaying the current value of the variable:
 Console.WriteLine(FullName);    //? Output : Yaya Dembele
 
-//? Réaffectation de la variable: Pour ce faire, j'ai pas bésoin d'indiquer le type encore de la variable que je veux réaffecter
+//? Reassigning the variable: To do this, I don't need to indicate the variable type again that I want to reassign.
 FullName = "Wael Hajji";
 
-//* Affichage de la nouvelle valeur réaffectée
+//* Displaying the newly reassigned value
 // Console.WriteLine(FullName);     //? Output : Wael Hajji
+
+//? Note: It's important to remember that you can reassign a new value to a variable of the same type. 
+//? For example, in my previous example, 
+//? I reassigned 'FullName' to a new value 'Wael Hajji' (which is of the same type, a 'string'
 
 //? NB: À ne pas oublier, et qui est très important qu'on ne peut réaffecter une nouvelle valeur à une variable de même type
 //?     c'est à dire d'après mon eexemple précédent , j'ai réaffecté à "FullName" une nouvelle valeur "Wael Hajji"
@@ -43,7 +47,7 @@ string UserName = "Houssem";
 string OtherName = "Narimene";
 
 
-//* Affichage avec de l'interpolation :
+//! Affichage avec de l'interpolation :
 Console.WriteLine($"Hello {UserName} and {OtherName}");  //? Output : Hello Houssem and Narimene
 
 UserName = OtherName;
@@ -163,4 +167,23 @@ Console.WriteLine(nb);   //? Output: 3
         *    et d'accéder aux fonctionnalités spécifiques des classes dérivées ou des implémentations d'interface. 
         *    Cela permet de rendre le code plus flexible et de répondre aux besoins spécifiques des opérations, 
         *    et des fonctionnalités requises dans une application C#.
+*/
+
+/*
+* (Anglais)
+
+*Casting in C# is primarily used for two types of conversions:
+
+* Numeric Conversion:
+* a) Goal: Convert between different numeric types, such as int, double, long, etc.
+* b) Example: Convert an int to double to perform calculations involving decimal numbers.
+* Reference Type Conversion:
+* a) Goal: Convert between a base class and a derived class, or between an interface type and its concrete implementation.
+* b) Example: Convert a reference of type Animal to Dog to access Dog-specific methods.
+* Summary:
+
+* Casting is primarily used for these two types of conversions to effectively manipulate numeric data
+* and access specific functionalities of derived classes or interface implementations.
+* This makes the code more flexible and meets the specific needs of operations
+* and functionalities required in a C# application.
 */
